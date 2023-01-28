@@ -1,20 +1,8 @@
-## Overview
 
-**Note** that all of the examples and information displayed in this documentation are made up and do not use actual client information. The documentation guides the users about various aspects of this application. For any questions please contact the developer (Ujjwal)
+
+**Note** that all of the examples and information displayed in this documentation are made up and do not use actual client information. The documentation guides the users about various aspects of this application. For any questions please contact the developer [Ujjwal Gautam](mailto:ujjwalgautam00@gmail.com)
 
  <br>
- This application utilizes various technologies, including:
-
-- [Meteor](https://www.meteor.com/) for Javascript-based client and server code implementation.
-- [React](https://reactjs.org/) for component-based UI implementation and routing.
-- [Bootstrap UI React](https://react-bootstrap.github.io/) CSS Framework for UI design.
-- [MongoDB](https://www.mongodb.com/) Production database
-
-<br>
-
-## Deployment
-
-The application is deployed in the HPT organizations' server and can only be accessible within the local network.
 
 <br>
 
