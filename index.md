@@ -1,6 +1,6 @@
 
 
-**Note** that all of the examples and information displayed in this documentation are made up and do not use actual client information. The documentation guides the users about various aspects of this application. For any questions please contact the developer [Ujjwal Gautam](mailto:ujjwalgautam00@gmail.com)
+**Note** that all of the examples and information displayed in this documentation are made up and do not use actual client information. The documentation guides the users about various aspects of this application. For any questions please contact [Ujjwal Gautam](mailto:ujjwalgautam00@gmail.com)
 
  <br>
 
@@ -15,7 +15,7 @@ This section provides a walkthrough of the HPT Clients Tracker user interface an
 
 The landing page is the first thing the users see upon visiting the root URL of the site.
 
-Users are prompted to enter their username and password for login. Only users with the admin privilege can register new accounts.
+Users are prompted to enter their username and password for login. 
 
 ![screenshot of the landing page](doc/landingwithoutlogin.png)
 
@@ -23,7 +23,7 @@ Users are prompted to enter their username and password for login. Only users wi
 
 ### Home Page
 
-Upon logging in successfully, the home page is displayed. It contains frequently used information regarding the company and links to other internal websites.
+Upon logging in successfully, the home page is displayed. It contains frequently used information and links to other internal websites.
 
 ![screenshot of the home page](doc/landingwithlogin.png)
 
