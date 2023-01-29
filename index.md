@@ -8,7 +8,7 @@
 
 ## User Guide
 
-This section provides a walkthrough of the HPT Clients Tracker user interface and its capabilities.
+This section provides a walkthrough of the HPT Clients Portal user interface and its capabilities.
 <br><br>
 
 ### Landing Page
@@ -46,7 +46,7 @@ To modify the customer information, select the "Edit" button. This will redirect
 
 ### Services Page
 
-Select the "Services" tab on the navigation bar to access a list of active services. This page will only display services associated with active customers. Users can access the active customers on the left sidebar to review the services they are currently running.
+Select the "Services" tab on the navigation bar to access a list of active services. This page will only display services associated with **active customers**. Users can access the active customers on the left sidebar to review the services they are currently running.
 
 ![screenshot of the services Page](doc/services.png)
 **Add Services**
@@ -113,6 +113,6 @@ The "Get Customers" page enables users to view a list of customers and the servi
 
 ## Contact Me
 
-**HPT Clients Tracker** is designed, implemented, and maintained by [Ujjwal Gautam](mailto:ujjwalgautam00@gmail.com)
+**HPT Clients Portal** is designed, implemented, and maintained by [Ujjwal Gautam](mailto:ujjwalgautam00@gmail.com)
 
 <br><br><br><br>
