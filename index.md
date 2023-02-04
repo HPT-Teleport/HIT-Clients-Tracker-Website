@@ -61,6 +61,7 @@ Below is the screenshot of the "Provider" page
 Select the "Services" tab on the navigation bar to access a list of active services. This page will only display services associated with active customers. Users can access the active customers on the left sidebar to review the services they are currently running.
 
 ![screenshot of the services Page](doc/services.png)
+
 **Add Services**
 <br>
 To add a new service:
@@ -74,7 +75,7 @@ Once complete, submit the form to finalize the process.
 <br>
 By selecting the customer button on the left sidebar, the application will display the services associated with that specific customer
 <br>
-On this page, users have the ability to view and delete the service. Additionally, users have the option to add the service to Spectras, an external device that is utilized for monitoring services. The application interacts with the device through a REST API. Once added to the Spectras application, users can access the latest graph of the service. This feature allows for quick and efficient monitoring of the service status and aids in troubleshooting during issues and outages.
+On this page, users have the ability to view and archive the service. Additionally, users have the option to add the service to Spectras, an external device that is utilized for monitoring services. Once added to the Spectras application, users can access the latest graph of the service. This feature allows for quick and efficient monitoring of the service status and aids in troubleshooting during issues and outages.
 
 ![screenshot of the individual services Page](doc/individualservice.png)
 
@@ -84,7 +85,7 @@ Click on the "Show Details" button to view the service's details.
 ![screenshot of the show details page](doc/servicedetails.png)
 
 <br>
-To add the TX/RX services to LPT Spectras, select the "Add to Spectras" button. After successfully adding the service to Spectras, the button label will change to "Remove From Spectras." If you wish to remove the service from Spectras, select the "Remove From Spectras" button.
+To add the TX/RX services to LPT Spectras, select the "Add to Spectras" button. After successfully adding the service to Spectras, the button label will change to "Remove (TX/RX)." If you wish to remove the service from Spectras, select the "Remove" button.
 
 ![Screenshot of add to spectras page](doc/successfuladdtospectras.png)
 
