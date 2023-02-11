@@ -121,6 +121,9 @@ To access information on inactive entities such as Customers, Providers, Service
 
 ![screenshot of the archive page](doc/archiveservice.png)
 
+Only users with "ADMIN" privilege can delete services permanently
+![screenshot of delete service page](doc/deleteservice.png)
+
 **_To reactivate an entity, simply click on the "Activate" button._**
 
 ### Admin
