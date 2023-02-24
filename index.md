@@ -69,6 +69,9 @@ Navigate to the "Services" page and select the "Add Services" button or access i
 Complete the form with the required information, and upload any necessary files if desired.
 Once complete, submit the form to finalize the process.
 
+> Please note that by default, all services are designated as active services.
+> However, users have the option to select the service type as "Upcoming Service" and activate it from the List Services page.
+
 ![screenshot of the addservices Page](doc/addnewservice.png)
 
 **Individual Service**
@@ -78,6 +81,13 @@ By selecting the customer button on the left sidebar, the application will displ
 On this page, users have the ability to view and archive the service. Additionally, users have the option to add the service to Spectras, an external device that is utilized for monitoring services. Once added to the Spectras application, users can access the latest graph of the service. This feature allows for quick and efficient monitoring of the service status and aids in troubleshooting during issues and outages.
 
 ![screenshot of the individual services Page](doc/individualservice.png)
+
+<br>
+
+> Screenshot of the individual service page that displays an incoming service.
+> To activate the service, simply click on the "Set Active" button.
+
+![screenshot of the individual services Incoming Page](doc/individualserviceincoming.png)
 
 <br>
 Click on the "Show Details" button to view the service's details.
