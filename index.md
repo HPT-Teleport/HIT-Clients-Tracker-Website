@@ -147,6 +147,12 @@ The "Admin" dropdown button on the navigation bar provides access to the functio
 ![screenshot of the Admin page](doc/admindropdown.png)
 
 <br>
+
+Additionally, the admin user is capable of accessing information about recently altered services and the individuals accountable for the modifications. Upon confirmation by the administrator, the service in question will be excluded from the roster of recent updates.
+
+![screenshot of the Admin notification](doc/adminnotifs.png)
+
+<br>
 The "Manage Account" page is accessible only to users with an "Admin" role and allows them to delete/register users. This page is not visible to users with different roles.
 
 ![screenshot of the manage account page](doc/manageaccounts.png)
