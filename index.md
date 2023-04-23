@@ -116,6 +116,8 @@ Select the "Antenna" button on the navigation bar to view, edit, and archive exi
 
 ![screenshot of the antenna page](doc/newaddantennas.png)
 
+**_Click on Upload to add new files, or Update to modify existing files._**
+
 To add a new antenna, navigate to the "Antenna" page and select the "Add Antenna" button or access it from the "Admin" dropdown in the navigation bar.
 
 ![screenshot of the antenna page](doc/addantenna-1.png)
