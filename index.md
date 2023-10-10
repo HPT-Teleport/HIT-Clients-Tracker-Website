@@ -19,7 +19,7 @@ Users are prompted to enter their username and password for login. Only users wi
 
 ### Home Page
 
-Upon logging in successfully, the home page is displayed. It contains frequently used information regarding the company and links to other internal websites. Additionally, it gives users the ability to modify their password.
+After you log in, you'll see the main page. Here, you can find important company news, links to other company sites, and recent updates about our services. You can also easily change your password from this page if you need to
 
 ![screenshot of the home page](doc/landingwithlogin.png)
 
@@ -28,7 +28,7 @@ Upon logging in successfully, the home page is displayed. It contains frequently
 
 ### Customer Page
 
-To access the Contact information, navigate to the Contacts menu in the navigation bar. The dropdown menu for Contacts contains two options - Customers and Providers. Selecting either option will redirect you to the respective page, where you can view the details of all active customers or providers. It's important to note that Providers may include both satellite and internet service providers. The page grants users the ability to modify, delete, and review customer/provider information.
+To access the Contact information, navigate to the Contacts menu in the navigation bar. The dropdown menu for Contacts contains two options - Customers and Providers. Selecting either option will take you to the respective page. Here, you can view details of all active customers or providers and even send an email to all customers or just one. Remember, Providers can be satellite or internet service providers. On these pages, you can change, remove, or look over customer/provider details.
 
 ![screenshot of active customer](doc/activecustomer.png)
 <br>
@@ -129,9 +129,19 @@ To upload files for antennas, simply click the 'Upload Diagrams' button located 
 <br>
 <br>
 
+### Facility
+
+In the facility dropdown, you'll find options for 'cross-connects' and 'site-drawings'. Choose 'cross-connects' if you want to make, change, or store cross connections for customers.
+
+![screenshot of the cross connects customer](doc/cross-connects.png)
+
+For individual shelter layouts within our location, select 'site drawings' to upload, see, or edit the diagrams.
+
+![screenshot of the site drawings](doc/site-drawings.png)
+
 ### Archive
 
-To access information on inactive entities such as Customers, Providers, Services, and Antennas, navigate to the "Archive" page via the navigation bar. Once on the page, simply select the desired entity and click on "Find" to display the related information
+To access information on inactive entities such as Customers, Providers, Services, Shelters, Cross-Connects and Antennas, navigate to the "Archive" page via the navigation bar. Once on the page, simply select the desired entity and click on "Find" to display the related information
 
 ![screenshot of the archive page customer](doc/archiveantenna.png)
 
@@ -142,9 +152,25 @@ Only users with "ADMIN" privilege can delete services permanently
 
 **_To reactivate an entity, simply click on the "Activate" button._**
 
+### Helper
+
+In the 'Helper' dropdown, there are three options: 'Frequency Lookup', 'HPT Calculator', and 'Audit Antenna'.
+
+With 'Frequency Lookup', you can type in a full or partial frequency to see which customer is using it.
+
+![screenshot of dreq lookup page](doc/freq-lookup.png)
+
+The 'HPT Calculator' lets you convert between dbm and watts, and also use the 'LO Calculator' to switch between L band and RF frequencies.
+
+![screenshot of HPT calculator](doc/hpt-calculator.png)
+
+Through 'Audit Antenna', by entering the Antenna type and Band, you'll get a list of all services using that particular antenna
+
+![screenshot of audit antenna page](doc/audit-antenna.png)
+
 ### Admin
 
-The "Admin" dropdown button on the navigation bar provides access to the functionality for adding customers, providers, services, and antennas. Additionally, it includes options for the administrator to manage user accounts and audit customers associated with a particular antenna.
+The "Admin" dropdown button on the navigation bar provides access to the functionality for adding customers, providers, services, cross-connects and antennas. Additionally, it includes options for the administrator to manage user accounts.
 
 ![screenshot of the Admin page](doc/admindropdown.png)
 
@@ -160,18 +186,6 @@ The "Manage Account" page is accessible only to users with an "Admin" role and a
 ![screenshot of the manage account page](doc/manageaccounts.png)
 
 <br>
-Users with non-admin role cannot manage accounts
-<br>
-
-![screenshot of the manage account page for non admin](doc/regularuser.png)
-
-<br>
-
-The "Audit Customer" page enables users to view a list of customers and the services associated with a particular antenna.
-
-![screenshot of the get customers page](doc/auditcustomer.png)
-
-<br>
 
 ### SignOut
 
@@ -181,6 +195,6 @@ To sign out, simply click on the username located at the top right of the naviga
 
 ## Contact Me
 
-**HPT Clients Tracker** is designed, implemented, and maintained by [Ujjwal Gautam](mailto:ugautam@hawaiiteleport.com)
+**HPT Clients Tracker** is designed, implemented, and maintained by [Ujjwal Gautam](mailto:ujjwalgautam00@gmail.com)
 
 <br><br><br><br>
